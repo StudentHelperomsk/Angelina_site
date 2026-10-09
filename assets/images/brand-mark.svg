@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Знак проекта адаптивной одежды</title>
+  <desc id="desc">Две детали спортивного топа соединяются центральной синей молнией</desc>
+  <path fill="#19181B" d="M7 55V34c0-6 2-12 6-17l2-3 2-10h10l2 11c.6 3.4 1.6 5.8 3 7.3V55H7Z"/>
+  <path fill="#19181B" d="M57 55V34c0-6-2-12-6-17l-2-3-2-10H37l-2 11c-.6 3.4-1.6 5.8-3 7.3V55h25Z"/>
+  <path fill="#168DDB" d="M17 17c5.7 2.1 10.2 6 15 12v8c-5.3-7.1-10.2-10.8-16.3-13.2L17 17Z"/>
+  <path fill="#168DDB" d="M47 17c-5.7 2.1-10.2 6-15 12v8c5.3-7.1 10.2-10.8 16.3-13.2L47 17Z"/>
+  <rect width="4" height="31" x="30" y="24" fill="#168DDB" rx="2"/>
+  <rect width="8" height="7" x="28" y="20" fill="#168DDB" rx="3.5"/>
+  <path fill="#19181B" d="M31 21.5h2v3h-2z"/>
+</svg>
